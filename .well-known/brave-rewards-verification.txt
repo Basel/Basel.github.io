@@ -1,0 +1,4 @@
+This is a Brave Rewards publisher verification file.
+
+Domain: baselamro.com
+Token: 19eff2cab95d53165750ea418660d853b57b6291443e9d080afcdeb94787ce5b
